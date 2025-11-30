@@ -29,4 +29,4 @@ Se incluye una interfaz por consola (CLI) que muestra gráficamente:
 * El cálculo en tiempo real del factor de carga.
 
 ---
-*Desarrollado para la actividad grupal: Implementación de una Tabla Hash.*
+
