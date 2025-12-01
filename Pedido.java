@@ -1,7 +1,4 @@
-/**
- * Clase Entidad: Representa los datos de un pedido en la Dark Kitchen.
- * Cumple con el requisito de usar clases propias como valor.
- */
+
 public class Pedido {
     public static final String ANSI_GREEN = "\u001B[32m"; //color
     public static final String ANSI_RESET = "\u001B[0m";
